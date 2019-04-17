@@ -1,7 +1,3 @@
-//
-// Created by 74772 on 2019/4/13.
-//
-
 #ifndef JUNJIEBA_USER_H
 #define JUNJIEBA_USER_H
 

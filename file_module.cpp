@@ -1,11 +1,3 @@
-//
-//  file_module.cpp
-//  file process
-//
-//  Created by 王俊杰 on 2019/4/13.
-//  Copyright © 2019 王俊杰. All rights reserved.
-//
-
 #include "file_module.h"
 
 void change_word_into_lowercase(char *a,int number){//change input into lower case

@@ -1,11 +1,3 @@
-//
-//  Header.h
-//  file process
-//
-//  Created by 王俊杰 on 2019/4/15.
-//  Copyright © 2019 王俊杰. All rights reserved.
-//
-
 #ifndef Header_h
 #define Header_h
 
